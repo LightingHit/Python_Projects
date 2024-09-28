@@ -74,9 +74,9 @@ def main():
         else:
             break
 
-print("**********")
+print("***********")
 print("Welcome to the the Weather APP")
 print("Please enter a city of which you'd like to know the current weather")
-print("**********")
+print("***********")
 
 main()
